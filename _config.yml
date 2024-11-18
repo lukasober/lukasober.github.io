@@ -21,7 +21,7 @@ repository               : "lukasober/lukasober.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Lukas_Ober.jpg"
   name             : "Lukas Ober"
   pronouns         : # example: "she/her"  
   bio              : "Master Student Software Engineering & Management at Technical University of Graz | Specializiation of master studies in Games Engineering & Psychology | Game Developer | Psychological Technical Assistant at the Digital Psychology Lab" 
